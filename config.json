@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderpncrypt",
+        "uuid": 7456680,
+        "checksum": "jzizml"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
